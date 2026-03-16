@@ -30,3 +30,9 @@ Based on the data-driven findings, the following continuous improvement initiati
 * **Target Segment Identified:** The 55+ age demographic traveling on package tours
 * **Strategy 1 - "Platinum Comfort & Care":** Designed a premium 12-day Mediterranean itinerary (Spain, Italy, Portugal) tailored for older travelers prioritizing safety and all-inclusive convenience. Projected to boost Average Revenue Per Booking (ARPB) by 10%
 * **Strategy 2 - "Early-Bird & Loyalty Flywheel":** Proposed to mitigate Q3 seasonal peaks by incentivizing Q1-Q2 early bookings, aiming for a 20% increase in early booking rates
+
+## 📁 Warehouse Structure
+* 📂 `Data/`: Contains both raw and cleaned datasets (transformed via Power Query to ensure data accuracy)
+* 📂 `Dashboard/`: Includes an Excel dashboard designed to enhance data visibility for operations managers
+* 📂 `Report/`: Contains a comprehensive Operations Report detailing methodologies, statistical results, and business implications
+* 📂 `Project Brief & Data Dictionary`: Include the information about dataset and business problem context
