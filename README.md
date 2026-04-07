@@ -33,6 +33,7 @@ Based on the data-driven findings, the following continuous improvement initiati
 
 ## 📁 Warehouse Structure
 * 📂 `Data/`: Contains both raw and cleaned datasets (transformed via Power Query to ensure data accuracy)
+  > You can download and view dataset in this drive: https://drive.google.com/drive/folders/11-We42037r-oYHigXRN7kqlKipgyCE46?usp=drive_link
 * 📂 `Dashboard/`: Includes an Excel dashboard designed to enhance data visibility for operations managers
 * 📂 `Report/`: Contains a comprehensive Operations Report detailing methodologies, statistical results, and business implications
 * 📂 `Project Brief & Data Dictionary`: Include the information about dataset and business problem context
